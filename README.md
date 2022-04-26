@@ -1,15 +1,17 @@
 ```bat
-Welcome to my profile
+Welcome to my profile!🐉
 ```
 
-<img align="left" src="https://cdn.discordapp.com/attachments/951925116227436624/951928844179345488/a_784207f09bfed6210be3fc12eb6c66d5.gif" width="250" /> 
+<img align="left" src="https://cdn.discordapp.com/attachments/935547174421430302/968500776639021056/Gif56.gif" width="250" /> 
 
-```csharp
-Check out my profile and projects, leave a star while your at it :)
+```python
+Check out my profile and projects
+Leave a star while your at it :)
  -------------
 
-     Name  -  polo
-Interests  -  Make Money, Development, Finance
-Languages  -  Python, HTML, CSS, C
- Telegram  -  @qucee
+     Name  =  "polo"
+Interests  =  "Make Money, Development, Finance"
+Languages  =  "Python, C, HTML & CSS"
+ Telegram  =  "@qucee"
+ Website   =  "https://polo.lol"
 ```
