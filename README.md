@@ -14,4 +14,5 @@ Interests  =  "Make Money, Development, Finance"
 Languages  =  "Python, C, HTML & CSS"
  Telegram  =  "@qucee"
   Website  =  "https://polo.lol"
+      WIP  =  "None"
 ```
