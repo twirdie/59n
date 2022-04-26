@@ -13,5 +13,5 @@ Leave a star while your at it :)
 Interests  =  "Make Money, Development, Finance"
 Languages  =  "Python, C, HTML & CSS"
  Telegram  =  "@qucee"
- Website   =  "https://polo.lol"
+  Website  =  "https://polo.lol"
 ```
