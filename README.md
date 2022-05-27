@@ -1,4 +1,4 @@
-<img align="left" src="https://i.imgur.com/EiAIQq1.gif" width="250" /> 
+<img align="left" src="https://i.imgur.com/EiAIQq1.gif" width="200" /> 
 
 ```python
 Check out my profile and projects
